@@ -10,6 +10,19 @@ Codacy -Static Code Analysis
 
 ![Codiga Badge](https://api.codiga.io/project/32561/status/svg)
 
+
+* Valgrind
+
+
+[![Valgrind](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/valgrind.yml)
+
+
+* Git Inspector
+
+[![Contribution Check - Git Inspector](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/RitikParashar/M1_Librarymanagementsystem/actions/workflows/git_inspector.yml)
+
+
+
  
 
 
